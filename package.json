@@ -1,4 +1,4 @@
-咩咩咩咩咩咩{
+{
   "private": true,
   "scripts": {
     "start": "roadhog server",
@@ -24,10 +24,5 @@
     "roadhog": "^2.5.0-beta.4"
   }
 }
-<<<<<<< HEAD
 
-
-dev dev dev 222
-=======
-newnewnenwnenwennew
->>>>>>> new
+现在在dev分支
